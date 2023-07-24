@@ -19,7 +19,8 @@ const UserList: FC = () => {
 
   const loadUsersData = (pageNumber: number) => {
     setIsLoading(true);
-    fetch(`/data/users/page${pageNumber}.json`)
+    // fetch(`/data/users/page${pageNumber}.json`)
+    fetch(`${process.env.PUBLIC_URL}/data/users/page${pageNumber}.json`)
       .then(response => response.json())
       .then(jsonData => {
         setData(prevData => [...prevData, ...jsonData])
