@@ -1,0 +1,302 @@
+[
+  {
+    "color": "GREEN",
+    "name": "Sarah Smith",
+    "speed": 147,
+    "time": 959554
+  },
+  {
+    "color": "BLUE",
+    "name": "Kerry Turner",
+    "speed": 138,
+    "time": 835754
+  },
+  {
+    "color": "RED",
+    "name": "Jane Martin",
+    "speed": 172,
+    "time": 952716
+  },
+  {
+    "color": "RED",
+    "name": "Scott White",
+    "speed": 134,
+    "time": 817098
+  },
+  {
+    "color": "BLUE",
+    "name": "Jake Smith",
+    "speed": 132,
+    "time": 995640
+  },
+  {
+    "color": "BLUE",
+    "name": "Helen Anderson",
+    "speed": 62,
+    "time": 921851
+  },
+  {
+    "color": "BLUE",
+    "name": "Paul Scottman",
+    "speed": 70,
+    "time": 721826
+  },
+  {
+    "color": "RED",
+    "name": "Emily White",
+    "speed": 115,
+    "time": 701211
+  },
+  {
+    "color": "GREEN",
+    "name": "Amy Smith",
+    "speed": 92,
+    "time": 791786
+  },
+  {
+    "color": "RED",
+    "name": "Jake Scottman",
+    "speed": 155,
+    "time": 944398
+  },
+  {
+    "color": "GREEN",
+    "name": "Laura Brown",
+    "speed": 138,
+    "time": 796543
+  },
+  {
+    "color": "RED",
+    "name": "Kate Jones",
+    "speed": 219,
+    "time": 945033
+  },
+  {
+    "color": "BLUE",
+    "name": "Leonardo Jones",
+    "speed": 99,
+    "time": 876266
+  },
+  {
+    "color": "BLUE",
+    "name": "Kate Scottman",
+    "speed": 115,
+    "time": 887563
+  },
+  {
+    "color": "BLUE",
+    "name": "Paul Martin",
+    "speed": 102,
+    "time": 961603
+  },
+  {
+    "color": "RED",
+    "name": "Helen White",
+    "speed": 229,
+    "time": 708989
+  },
+  {
+    "color": "GREEN",
+    "name": "Leonardo Doe",
+    "speed": 60,
+    "time": 772111
+  },
+  {
+    "color": "GREEN",
+    "name": "Kate Richardson",
+    "speed": 172,
+    "time": 833402
+  },
+  {
+    "color": "GREEN",
+    "name": "Jake Parker",
+    "speed": 124,
+    "time": 701660
+  },
+  {
+    "color": "BLUE",
+    "name": "Daniel White",
+    "speed": 231,
+    "time": 766445
+  },
+  {
+    "color": "GREEN",
+    "name": "Aaron Turner",
+    "speed": 203,
+    "time": 647600
+  },
+  {
+    "color": "GREEN",
+    "name": "Helen Parker",
+    "speed": 134,
+    "time": 868821
+  },
+  {
+    "color": "RED",
+    "name": "Kate Smith",
+    "speed": 126,
+    "time": 865207
+  },
+  {
+    "color": "RED",
+    "name": "Robert Martin",
+    "speed": 244,
+    "time": 768669
+  },
+  {
+    "color": "RED",
+    "name": "Amy Doe",
+    "speed": 118,
+    "time": 559553
+  },
+  {
+    "color": "GREEN",
+    "name": "Sarah Turner",
+    "speed": 55,
+    "time": 718464
+  },
+  {
+    "color": "GREEN",
+    "name": "Leonardo Scottman",
+    "speed": 157,
+    "time": 936692
+  },
+  {
+    "color": "BLUE",
+    "name": "Michael Johnson",
+    "speed": 98,
+    "time": 983900
+  },
+  {
+    "color": "BLUE",
+    "name": "Jake Williams",
+    "speed": 183,
+    "time": 825596
+  },
+  {
+    "color": "GREEN",
+    "name": "Alice Martin",
+    "speed": 155,
+    "time": 868927
+  },
+  {
+    "color": "GREEN",
+    "name": "Aaron Williams",
+    "speed": 154,
+    "time": 853895
+  },
+  {
+    "color": "BLUE",
+    "name": "Amy White",
+    "speed": 142,
+    "time": 643058
+  },
+  {
+    "color": "BLUE",
+    "name": "Emily Stivenson",
+    "speed": 126,
+    "time": 631907
+  },
+  {
+    "color": "RED",
+    "name": "Paul Turner",
+    "speed": 57,
+    "time": 693442
+  },
+  {
+    "color": "BLUE",
+    "name": "Jake Brown",
+    "speed": 133,
+    "time": 592885
+  },
+  {
+    "color": "GREEN",
+    "name": "Michael Scottman",
+    "speed": 183,
+    "time": 657321
+  },
+  {
+    "color": "GREEN",
+    "name": "Jim Doe",
+    "speed": 117,
+    "time": 864103
+  },
+  {
+    "color": "RED",
+    "name": "Kate Brown",
+    "speed": 119,
+    "time": 884382
+  },
+  {
+    "color": "GREEN",
+    "name": "Scott Smith",
+    "speed": 58,
+    "time": 911653
+  },
+  {
+    "color": "GREEN",
+    "name": "Daniel Jones",
+    "speed": 135,
+    "time": 848148
+  },
+  {
+    "color": "RED",
+    "name": "Paul Jones",
+    "speed": 149,
+    "time": 607377
+  },
+  {
+    "color": "RED",
+    "name": "Helen Brown",
+    "speed": 247,
+    "time": 561768
+  },
+  {
+    "color": "GREEN",
+    "name": "Jim Smith",
+    "speed": 152,
+    "time": 724828
+  },
+  {
+    "color": "RED",
+    "name": "Paul Williams",
+    "speed": 235,
+    "time": 831024
+  },
+  {
+    "color": "GREEN",
+    "name": "Amy Smith",
+    "speed": 217,
+    "time": 726781
+  },
+  {
+    "color": "BLUE",
+    "name": "Jake White",
+    "speed": 145,
+    "time": 673338
+  },
+  {
+    "color": "RED",
+    "name": "Laura Scottman",
+    "speed": 166,
+    "time": 700503
+  },
+  {
+    "color": "RED",
+    "name": "Jake Williams",
+    "speed": 68,
+    "time": 997376
+  },
+  {
+    "color": "RED",
+    "name": "Amy Scottman",
+    "speed": 208,
+    "time": 561519
+  },
+  {
+    "color": "BLUE",
+    "name": "Jane Martin",
+    "speed": 87,
+    "time": 829866
+  }
+]
