@@ -1,0 +1,302 @@
+[
+  {
+    "color": "GREEN",
+    "name": "Michael Richardson",
+    "speed": 108,
+    "time": 530458
+  },
+  {
+    "color": "GREEN",
+    "name": "Leonardo Richardson",
+    "speed": 203,
+    "time": 501957
+  },
+  {
+    "color": "BLUE",
+    "name": "Jane Smith",
+    "speed": 225,
+    "time": 759886
+  },
+  {
+    "color": "RED",
+    "name": "Daniel White",
+    "speed": 176,
+    "time": 956513
+  },
+  {
+    "color": "BLUE",
+    "name": "Aaron Johnson",
+    "speed": 137,
+    "time": 759807
+  },
+  {
+    "color": "GREEN",
+    "name": "Donatello Smith",
+    "speed": 227,
+    "time": 722831
+  },
+  {
+    "color": "RED",
+    "name": "Kate Parker",
+    "speed": 100,
+    "time": 732082
+  },
+  {
+    "color": "GREEN",
+    "name": "Kate Martin",
+    "speed": 119,
+    "time": 723745
+  },
+  {
+    "color": "GREEN",
+    "name": "William Scottman",
+    "speed": 190,
+    "time": 881789
+  },
+  {
+    "color": "RED",
+    "name": "Paul Stivenson",
+    "speed": 148,
+    "time": 859334
+  },
+  {
+    "color": "RED",
+    "name": "Laura Smith",
+    "speed": 243,
+    "time": 533882
+  },
+  {
+    "color": "RED",
+    "name": "Aaron Williams",
+    "speed": 121,
+    "time": 909722
+  },
+  {
+    "color": "BLUE",
+    "name": "Leonardo White",
+    "speed": 67,
+    "time": 779157
+  },
+  {
+    "color": "BLUE",
+    "name": "Jim Smith",
+    "speed": 160,
+    "time": 602305
+  },
+  {
+    "color": "BLUE",
+    "name": "Alice Martin",
+    "speed": 97,
+    "time": 628224
+  },
+  {
+    "color": "BLUE",
+    "name": "Laura White",
+    "speed": 149,
+    "time": 660016
+  },
+  {
+    "color": "GREEN",
+    "name": "Aaron Parker",
+    "speed": 126,
+    "time": 758660
+  },
+  {
+    "color": "BLUE",
+    "name": "Robert Richardson",
+    "speed": 183,
+    "time": 887909
+  },
+  {
+    "color": "GREEN",
+    "name": "Helen Smith",
+    "speed": 73,
+    "time": 906651
+  },
+  {
+    "color": "RED",
+    "name": "Jim Scottman",
+    "speed": 139,
+    "time": 700422
+  },
+  {
+    "color": "GREEN",
+    "name": "Jane Richardson",
+    "speed": 129,
+    "time": 673343
+  },
+  {
+    "color": "BLUE",
+    "name": "Daniel Scottman",
+    "speed": 76,
+    "time": 510424
+  },
+  {
+    "color": "GREEN",
+    "name": "Jim Anderson",
+    "speed": 112,
+    "time": 713656
+  },
+  {
+    "color": "GREEN",
+    "name": "Scott Turner",
+    "speed": 145,
+    "time": 846864
+  },
+  {
+    "color": "RED",
+    "name": "Emily Williams",
+    "speed": 111,
+    "time": 638367
+  },
+  {
+    "color": "RED",
+    "name": "Alice White",
+    "speed": 105,
+    "time": 721762
+  },
+  {
+    "color": "RED",
+    "name": "Emily White",
+    "speed": 205,
+    "time": 816633
+  },
+  {
+    "color": "GREEN",
+    "name": "Leonardo Stivenson",
+    "speed": 174,
+    "time": 695482
+  },
+  {
+    "color": "GREEN",
+    "name": "Daniel Martin",
+    "speed": 161,
+    "time": 784146
+  },
+  {
+    "color": "RED",
+    "name": "Scott Anderson",
+    "speed": 138,
+    "time": 537930
+  },
+  {
+    "color": "GREEN",
+    "name": "Sarah Parker",
+    "speed": 103,
+    "time": 572959
+  },
+  {
+    "color": "BLUE",
+    "name": "Paul Brown",
+    "speed": 234,
+    "time": 669795
+  },
+  {
+    "color": "GREEN",
+    "name": "Jane Jones",
+    "speed": 112,
+    "time": 860727
+  },
+  {
+    "color": "BLUE",
+    "name": "Jim White",
+    "speed": 180,
+    "time": 732369
+  },
+  {
+    "color": "RED",
+    "name": "Daniel Williams",
+    "speed": 228,
+    "time": 622426
+  },
+  {
+    "color": "GREEN",
+    "name": "William Doe",
+    "speed": 181,
+    "time": 973279
+  },
+  {
+    "color": "GREEN",
+    "name": "Jane Scottman",
+    "speed": 101,
+    "time": 637860
+  },
+  {
+    "color": "RED",
+    "name": "Kate Martin",
+    "speed": 83,
+    "time": 626324
+  },
+  {
+    "color": "RED",
+    "name": "Daniel Anderson",
+    "speed": 127,
+    "time": 994923
+  },
+  {
+    "color": "GREEN",
+    "name": "Paul Parker",
+    "speed": 111,
+    "time": 596948
+  },
+  {
+    "color": "BLUE",
+    "name": "Alice Williams",
+    "speed": 247,
+    "time": 645970
+  },
+  {
+    "color": "BLUE",
+    "name": "Jane Johnson",
+    "speed": 79,
+    "time": 543301
+  },
+  {
+    "color": "GREEN",
+    "name": "Alice Anderson",
+    "speed": 99,
+    "time": 901824
+  },
+  {
+    "color": "RED",
+    "name": "William Martin",
+    "speed": 65,
+    "time": 993128
+  },
+  {
+    "color": "GREEN",
+    "name": "Donatello Parker",
+    "speed": 250,
+    "time": 951618
+  },
+  {
+    "color": "RED",
+    "name": "Helen Anderson",
+    "speed": 145,
+    "time": 809188
+  },
+  {
+    "color": "RED",
+    "name": "Kerry Smith",
+    "speed": 73,
+    "time": 585565
+  },
+  {
+    "color": "RED",
+    "name": "Jake Doe",
+    "speed": 155,
+    "time": 777543
+  },
+  {
+    "color": "GREEN",
+    "name": "Amy Richardson",
+    "speed": 203,
+    "time": 708065
+  },
+  {
+    "color": "RED",
+    "name": "Aaron White",
+    "speed": 132,
+    "time": 981002
+  }
+]

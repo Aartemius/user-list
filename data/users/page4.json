@@ -1,0 +1,302 @@
+[
+  {
+    "color": "GREEN",
+    "name": "Sarah Doe",
+    "speed": 156,
+    "time": 633503
+  },
+  {
+    "color": "GREEN",
+    "name": "Donatello Johnson",
+    "speed": 229,
+    "time": 864882
+  },
+  {
+    "color": "BLUE",
+    "name": "John Martin",
+    "speed": 56,
+    "time": 724235
+  },
+  {
+    "color": "RED",
+    "name": "John Parker",
+    "speed": 207,
+    "time": 732237
+  },
+  {
+    "color": "RED",
+    "name": "Alice Doe",
+    "speed": 147,
+    "time": 865968
+  },
+  {
+    "color": "RED",
+    "name": "Leonardo Brown",
+    "speed": 192,
+    "time": 752888
+  },
+  {
+    "color": "BLUE",
+    "name": "Jane Stivenson",
+    "speed": 174,
+    "time": 522560
+  },
+  {
+    "color": "GREEN",
+    "name": "Donatello Anderson",
+    "speed": 241,
+    "time": 949550
+  },
+  {
+    "color": "RED",
+    "name": "Kerry Stivenson",
+    "speed": 133,
+    "time": 705615
+  },
+  {
+    "color": "BLUE",
+    "name": "John Anderson",
+    "speed": 213,
+    "time": 678929
+  },
+  {
+    "color": "RED",
+    "name": "Amy Anderson",
+    "speed": 220,
+    "time": 938607
+  },
+  {
+    "color": "BLUE",
+    "name": "Jane Doe",
+    "speed": 133,
+    "time": 884227
+  },
+  {
+    "color": "GREEN",
+    "name": "Sarah White",
+    "speed": 70,
+    "time": 734932
+  },
+  {
+    "color": "BLUE",
+    "name": "Jane Turner",
+    "speed": 71,
+    "time": 949659
+  },
+  {
+    "color": "BLUE",
+    "name": "John Parker",
+    "speed": 147,
+    "time": 786966
+  },
+  {
+    "color": "RED",
+    "name": "Kate White",
+    "speed": 240,
+    "time": 615981
+  },
+  {
+    "color": "RED",
+    "name": "Kate Stivenson",
+    "speed": 110,
+    "time": 773037
+  },
+  {
+    "color": "RED",
+    "name": "Robert Scottman",
+    "speed": 91,
+    "time": 758821
+  },
+  {
+    "color": "RED",
+    "name": "Daniel Brown",
+    "speed": 238,
+    "time": 520126
+  },
+  {
+    "color": "RED",
+    "name": "Kate Johnson",
+    "speed": 163,
+    "time": 799384
+  },
+  {
+    "color": "BLUE",
+    "name": "Aaron Scottman",
+    "speed": 152,
+    "time": 834020
+  },
+  {
+    "color": "BLUE",
+    "name": "William Scottman",
+    "speed": 92,
+    "time": 727112
+  },
+  {
+    "color": "GREEN",
+    "name": "John Richardson",
+    "speed": 210,
+    "time": 740321
+  },
+  {
+    "color": "GREEN",
+    "name": "Jane Doe",
+    "speed": 206,
+    "time": 914991
+  },
+  {
+    "color": "RED",
+    "name": "Kerry White",
+    "speed": 76,
+    "time": 808338
+  },
+  {
+    "color": "BLUE",
+    "name": "Michael Jones",
+    "speed": 137,
+    "time": 876117
+  },
+  {
+    "color": "BLUE",
+    "name": "Aaron Williams",
+    "speed": 167,
+    "time": 729870
+  },
+  {
+    "color": "BLUE",
+    "name": "Laura Anderson",
+    "speed": 241,
+    "time": 629988
+  },
+  {
+    "color": "GREEN",
+    "name": "Robert Doe",
+    "speed": 67,
+    "time": 784826
+  },
+  {
+    "color": "GREEN",
+    "name": "Jim Stivenson",
+    "speed": 114,
+    "time": 792392
+  },
+  {
+    "color": "BLUE",
+    "name": "Sarah Doe",
+    "speed": 154,
+    "time": 847018
+  },
+  {
+    "color": "BLUE",
+    "name": "Kerry White",
+    "speed": 184,
+    "time": 926812
+  },
+  {
+    "color": "BLUE",
+    "name": "Scott Turner",
+    "speed": 203,
+    "time": 963227
+  },
+  {
+    "color": "BLUE",
+    "name": "Paul Jones",
+    "speed": 144,
+    "time": 864410
+  },
+  {
+    "color": "GREEN",
+    "name": "Scott Johnson",
+    "speed": 52,
+    "time": 940954
+  },
+  {
+    "color": "RED",
+    "name": "Jane Stivenson",
+    "speed": 72,
+    "time": 868344
+  },
+  {
+    "color": "RED",
+    "name": "William Anderson",
+    "speed": 186,
+    "time": 631578
+  },
+  {
+    "color": "BLUE",
+    "name": "Jane Jones",
+    "speed": 200,
+    "time": 822605
+  },
+  {
+    "color": "BLUE",
+    "name": "Kate Scottman",
+    "speed": 173,
+    "time": 582508
+  },
+  {
+    "color": "GREEN",
+    "name": "Jane Jones",
+    "speed": 249,
+    "time": 788837
+  },
+  {
+    "color": "GREEN",
+    "name": "Donatello Williams",
+    "speed": 97,
+    "time": 607204
+  },
+  {
+    "color": "RED",
+    "name": "Emily Parker",
+    "speed": 103,
+    "time": 686455
+  },
+  {
+    "color": "GREEN",
+    "name": "Jim Stivenson",
+    "speed": 211,
+    "time": 985442
+  },
+  {
+    "color": "GREEN",
+    "name": "Sarah Doe",
+    "speed": 106,
+    "time": 607630
+  },
+  {
+    "color": "BLUE",
+    "name": "Sarah Williams",
+    "speed": 244,
+    "time": 971529
+  },
+  {
+    "color": "RED",
+    "name": "John Stivenson",
+    "speed": 159,
+    "time": 775396
+  },
+  {
+    "color": "BLUE",
+    "name": "Aaron Williams",
+    "speed": 127,
+    "time": 688278
+  },
+  {
+    "color": "RED",
+    "name": "John Johnson",
+    "speed": 226,
+    "time": 950750
+  },
+  {
+    "color": "BLUE",
+    "name": "Daniel Turner",
+    "speed": 77,
+    "time": 733847
+  },
+  {
+    "color": "GREEN",
+    "name": "Robert White",
+    "speed": 199,
+    "time": 688655
+  }
+]
